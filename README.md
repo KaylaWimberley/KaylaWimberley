@@ -1,5 +1,5 @@
 
-👋 Hi, I’m Kayla Wimberey and I graduated at the University of Houston-Downtown
+👋 Hi, I’m Kayla Myers and I graduated at the University of Houston-Downtown
 
 👀 I’m interested in learning more about coding and SQL
 
