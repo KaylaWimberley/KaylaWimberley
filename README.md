@@ -1,9 +1,9 @@
 
-👋 Hi, I’m Kayla Wimberey and I am a senior at the University of Houston-Downtown
+👋 Hi, I’m Kayla Wimberey and I graduated at the University of Houston-Downtown
 
-👀 I’m interested in learning how to code and learn SQL
+👀 I’m interested in learning more about coding and SQL
 
-🌱 I’m currently learning how to become a data analysis, data engineer, and project manager in the technology
+🌱 I’m currently learning how to become a data analysis, data engineer, or project manager in the technology
 
 💞️ I’m looking to collaborate on software projects to strengthen my expertise on programming
 
